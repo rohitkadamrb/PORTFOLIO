@@ -1,0 +1,175 @@
+{
+  "contact": {
+    "phone": "+64 022 0486877",
+    "email": "kadamrohit@hotmail.com",
+
+    "location": "Auckland, New Zealand"
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Architecture",
+          "percent": 80
+        },
+        {
+          "name": "Web App Development",
+          "percent": 80
+        },
+
+        {
+          "name": "Git",
+          "percent": 80
+        },
+        {
+          "name": "Backend Development",
+          "percent": 80
+        },
+
+        {
+          "name": "Database Design",
+          "percent": 70
+        },
+
+        {
+          "name": "Blockchain",
+          "percent": 40
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Javascript",
+          "percent": 80
+        },
+        {
+          "name": "C#",
+          "percent": 82
+        },
+        {
+          "name": "Typescript",
+          "percent": 65
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "React"
+        },
+
+        {
+          "name": "Dot Net"
+        },
+        {
+          "name": "Node"
+        },
+
+        {
+          "name": "Express"
+        },
+
+        {
+          "name": "Gatsby"
+        },
+        {
+          "name": "Next.js"
+        }
+      ]
+    },
+    {
+      "title": "Software",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Visual Studio"
+        },
+        {
+          "name": "Visual Studio Code"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "MSSQL"
+        },
+        {
+          "name": "Mongodb"
+        },
+        {
+          "name": "MySQL"
+        }
+      ]
+    }
+  ],
+  "summary": "Technically sophisiticated professional, armed with indepth knowledge and highly successful experience in SDLC, system architecture, test automation, service management, infrastructure support, application development and facilitating process improvement initiatives.Highly creative and multitalented Software Developer with verifiable success in producing quality software",
+  "education": [
+    {
+      "institution": "Whitireia New Zealand",
+      "degree": "Masters in IT",
+      "start": "2018",
+      "end": "2020"
+    },
+    {
+      "institution": "Unitec Institute of Technology",
+      "degree": "PG diploma in Computing",
+      "start": "2016",
+      "end": "2017"
+    }
+  ],
+  "experience": [
+    {
+      "role": "React Intern(voluntary)",
+      "company": "SoftFull NZ",
+      "description": "I am working on an Ecommerce project in Gatsby using the React Framework and I am involved in development and designing of the application",
+      "start": "03/2020"
+    },
+
+    {
+      "role": "SAP Support Consultant",
+      "company": "TRIOGENESYS",
+      "description": "Worked as an IT Consultant on application support project on SAP R/3 6.0 in SD and MM modules Analyzed FS and Worked with functional colleagues to understand functional design requirements and deliver the relevant task using SAP ABAP language.",
+      "start": "2013",
+      "end": "2016"
+    }
+  ],
+  "social": [
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/rohit-kadam/"
+    },
+
+    {
+      "service": "github",
+      "url": "https://github.com/rohitkadamrb"
+    },
+    {
+      "service": "facebook",
+      "url": "https://www.facebook.com/rohitk47/"
+    },
+    {
+      "service": "instagram",
+      "url": "https://www.instagram.com/rohitkadam11/"
+    }
+  ],
+  "role": "Fullstack React Developer",
+  "projects": [
+    {
+      "name": "Gatsby resume starter",
+      "company": "Open source",
+      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
+      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+    }
+  ],
+  "fullname": "Rohit Kadam"
+}
