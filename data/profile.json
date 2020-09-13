@@ -171,7 +171,7 @@
     },
     {
       "name": "Meme Generator",
-      "description": "It is a fun React project with uses imgflip API to create meme",
+      "description": "It is a fun React project with uses imgflip API to create meme. Once created you can copy the meme to clipboard and share",
       "link": "https://xenodochial-liskov-89fcc6.netlify.app/"
     },
     {
