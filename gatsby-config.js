@@ -6,28 +6,22 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
-    social: {
-      twitter: `barancezayirli`,
-    },
+    title: `Rohit Kadam | Software Developer`,
+    author: `Rohit`,
+    description: `Technically sophisiticated professional, armed with indepth knowledge and highly successful experience in SDLC, system architecture, test automation, service management, infrastructure support, application development and facilitating process improvement initiatives.Highly creative and multitalented Software Developer with verifiable success in producing quality software.`,
+    siteUrl: `https://rohit-kadam.tech/`,
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
+        name: `Rohit | Software Developer`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#38B2AC`,
         display: `standalone`,
-        icon: 'src/assets/site-icon.png'
+        icon: 'src/assets/site-icon.png',
       },
     },
     'gatsby-plugin-offline',
@@ -54,7 +48,7 @@ module.exports = {
       options: {
         printRejected: true,
         tailwind: true, // Enable tailwindcss support
-      }
-    }
+      },
+    },
   ],
 };

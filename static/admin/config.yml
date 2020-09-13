@@ -1,7 +1,6 @@
 backend:
   name: github
-  repo: rohitkadamrb/portfolio #TODO replace this with your own repo
-
+  repo: rohitkadamrb/portfolio
 media_folder: static/assets
 public_folder: assets
 

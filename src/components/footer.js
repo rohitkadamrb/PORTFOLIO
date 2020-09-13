@@ -8,21 +8,7 @@ const Footer = ({ social }) => (
       <span className="inline-block mr-1">
         © {new Date().getFullYear()} | Developed with
       </span>
-      <span className="inline-block mr-1">
-        <HeartIcon
-          className="h-3 w-3 fill-current"
-          style={{ color: '#de3618' }}
-        />
-      </span>
-      <span className="inline-block mr-1">by</span>
-      <a
-        className="text-primary-500 hover:text-primary-700 font-bold"
-        href="https://barancezayirli.com"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Baran Cezayirli
-      </a>
+      <span className="inline-block mr-1">Gatsby</span>
     </div>
     {social && (
       <div className="flex items-center justify-center ml-2">
